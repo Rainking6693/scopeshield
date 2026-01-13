@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[31028,["/scopeshield/_next/static/chunks/2b3e0a6ade72673a.js","/scopeshield/_next/static/chunks/f4bf6f1255858ffa.js"],"ViewportBoundary"]
+3:I[31028,["/scopeshield/_next/static/chunks/2b3e0a6ade72673a.js","/scopeshield/_next/static/chunks/f4bf6f1255858ffa.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[40345,["/scopeshield/_next/static/chunks/2b3e0a6ade72673a.js","/scopeshield/_next/static/chunks/f4bf6f1255858ffa.js"],"IconMark"]
+0:{"buildId":"RfU41wpcNeH5KSptNftQh","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ScopeShield - AI-Powered Scope Creep Detection for Freelancers"}],["$","meta","1",{"name":"description","content":"Stop losing money to scope creep. AI-powered monitoring detects scope changes in real-time and generates professional change orders instantly."}],["$","link","2",{"rel":"icon","href":"/scopeshield/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
